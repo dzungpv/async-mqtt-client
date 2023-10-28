@@ -10,9 +10,9 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/marvinroger/async-mqtt-client.git"
+    "url": "https://github.com/dzungpv/async-mqtt-client.git"
   },
-  "version": "0.9.0",
+  "version": "0.9.0.1",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"],
   "dependencies": [
@@ -23,7 +23,7 @@
     },
     {
       "name": "AsyncTCP",
-      "version": ">=1.1.1",
+      "version": ">=2.0.2",
       "platforms": "espressif32"
     }
   ]
